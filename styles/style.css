@@ -193,7 +193,7 @@ body.quiz-mode {
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: #f4f4f4;
+  background-image: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
 }
 
 .quiz-header-image {
